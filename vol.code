@@ -1,4 +1,5 @@
 #!/bin/bash
+#test pooling
 for X in {1..1}
 do 
 echo "the value of x is $X"
